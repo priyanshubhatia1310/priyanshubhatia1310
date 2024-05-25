@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshubhatia1310&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshubhatia1310" /> </p>
 
+- I I recently completed a virtual internship with Mentorness for one month as a data analyst intern.
+  
 - 🌱 I’m currently learning **Python , Sql , Tableau , Power BI, MS Excel,Statistics from Imarticus Learning(Delhi)**
 
 - 📫 How to reach me **https://www.linkedin.com/in/priyanshu-bhatia-5809602b5/**
