@@ -8,7 +8,7 @@
 
 - I I recently completed a virtual internship with Mentorness for one month as a data analyst intern.
   
-- 🌱 I’m currently learning **Python , Sql , Tableau , Power BI, MS Excel,Statistics from Imarticus Learning(Delhi)**
+- 🌱 **Python, SQL, Tableau, Power BI, MS Excel, Statistics** are my areas of expertise.
 
 - 📫 How to reach me **https://www.linkedin.com/in/priyanshu-bhatia-5809602b5/**
 
